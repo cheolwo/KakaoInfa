@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rqqL6kPYPi27jz3mBDHHDRP7TSM+yQ4zlSJFJkYlNzsCHr+LPPrqMRx/IV4+Cbccqyvg7BFqm/h2QXyRhaE1Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\KakaoInfa\\kakaoInfa\\kakaoInfa\\kakaoInfa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
